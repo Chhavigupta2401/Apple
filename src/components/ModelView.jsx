@@ -3,9 +3,9 @@ import { Html, OrbitControls, PerspectiveCamera, View } from "@react-three/drei"
 import * as THREE from 'three'
 import Lights from './Lights';
 import Loader from './Loader';
-import IPhone from './IPhone';
+
 import { Suspense } from "react";
-import Iphone from "./IPhone";
+import Iphone from "./Iphone";
 
 const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
   return (
