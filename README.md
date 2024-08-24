@@ -1,7 +1,7 @@
 
 # **Reimagine iPhone 15 Pro Clone**
 
-**[Preview the Project](https://reimagine-iphone.netlify.app/)**
+**[Preview the Project](https://apple-project-zeta.vercel.app/)**
 
 A clone of Apple's iPhone 15 Pro website built using **React.js** and **TailwindCSS**. This project showcases effective use of **GSAP (Greensock Animations)** and **Three.js** for displaying iPhone 15 Pro models in various colors and shapes.
 
