@@ -16,7 +16,7 @@ export default {
       },
       fontFamily:{
     custom:["Foldit", "sans-serif"],
-    arvo:["Arvo", "serif"]
+    arvo:["Michroma", "sans-serif"]
 
       },
       fontWeight:{
