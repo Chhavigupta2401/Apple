@@ -39,8 +39,8 @@ tl7.to(".scroll-img",{
   return (
   <div className="w-full min-h-100vh" ref={box}> <div className="part flex items-center justify-center w-full h-screen">
   <div className="our-work-txt">
-      <h1 id="our" className=' absolute top-0  font-arvo font-600 -translate-x-1/2 left-[25%] -translate-y-1/2 text-5xl lg:text-7xl'>Our</h1>
-      <h1 id="work" className='absolute bottom-0   translate-x-1/2 translate-y-1/2 text-5xl lg:text-7xl font-arvo font-600 right-[25%]'>Products</h1>
+      <h1 id="our" className=' absolute top-0  font-arvo font-600 -translate-x-1/2 left-[25%] -translate-y-1/2 text-3xl lg:text-7xl'>Our</h1>
+      <h1 id="work" className='absolute bottom-0   translate-x-1/2 translate-y-1/2 text-3xl lg:text-7xl font-arvo font-600 right-[25%]'>Products</h1>
   </div>
   <div className="our-work-txt-div">
       <div className="scroll-work ">
